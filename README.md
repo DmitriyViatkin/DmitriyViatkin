@@ -28,7 +28,7 @@
      <a href="https://t.me/V_DmitryI" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100011417287927&locale=uk_UA" target="_blank">
       <img src="/assets/faceb.svg" width="40" height="40" alt="Facebook" />
     </a>
 
