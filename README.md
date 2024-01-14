@@ -2,22 +2,17 @@
 
 ---
 
-<<<<<<< HEAD
+
 ### 👨‍💻 Коротко про себе:
 Я тестувальник початківець і в даний час займаюся самонавчанням у тестуванні проходячи курси та вивчаючи професійну літературу з тестування на різноманітних ресурсах та з книг. Маю знання та навички в написанні тестової документації які отримав проходячи курси з тестування.
 Зараз шукаю можливість використовувати та розширювати свої знання на практиці.
 
 - 📫 Как связаться со мной:
-=======
-# About me
-## ***DmitriyViatkin***
 
-### Languages and tools
->>>>>>> 2cbc1ee854bad5ec3aa447aecbcb8a2b73f80fd7
 
- [![LinkedIn Badge](https://img.shields.io/badge/-@Дмитрий_Вяткин-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/дмитрий-вяткин-41aa73151)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:viatkindima@gmail.com)
- [![Telegram](https://img.shields.io/badge/Telegram-black?logo=Telegram
+    [![LinkedIn Badge](https://img.shields.io/badge/-@Дмитрий_Вяткин-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/дмитрий-вяткин-41aa73151)
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:viatkindima@gmail.com)
+    [![Telegram](https://img.shields.io/badge/Telegram-black?logo=Telegram
 )](https://t.me/V_DmitryI)
 [![Skype](https://img.shields.io/badge/Skype-black?logo=Skype
 )](live:dimaviatkin)
