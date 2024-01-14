@@ -15,7 +15,7 @@
     [![Telegram](https://img.shields.io/badge/Telegram-black?logo=Telegram
 )](https://t.me/V_DmitryI)
 [![Skype](https://img.shields.io/badge/Skype-black?logo=Skype
-)](live:dimaviatkin)
+)](https://join.skype.com/invite/KYRGWgxzh7ZE)
 
 ---
 ### 🤝 Соціальні мережі:
