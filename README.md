@@ -9,7 +9,6 @@
 
 - 📫 Как связаться со мной:
 
-
     [![LinkedIn Badge](https://img.shields.io/badge/-@Дмитрий_Вяткин-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/дмитрий-вяткин-41aa73151)
     [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:viatkindima@gmail.com)
     [![Telegram](https://img.shields.io/badge/Telegram-black?logo=Telegram
@@ -23,15 +22,11 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/дмитрий-вяткин-41aa73151" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/V_DmitryI" target="_blank">
+    </a> 
+     <a href="https://t.me/V_DmitryI" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
-
----
-
-
 
 ---
 
@@ -54,22 +49,13 @@
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Тестування  мобільних додатків:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp 
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   
 </div>
-
-
----
-
-### 💾 Работа с даними:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  
 
 ---
 
@@ -82,4 +68,12 @@
 </div>
 
 ---
+
+### 💾 Зараз вивчаю:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+
+ ---
+
 
