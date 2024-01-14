@@ -79,7 +79,7 @@
 ### 💾 Зараз вивчаю:
 
 <div>
-  <img src="/assets/Вяткін Дмитро 1.png" title="sql" alt="sql" width="60" height="60"/>&nbsp
+  <img src="/assets/Без імені.png" title="sql" alt="sql" width="60" height="60"/>&nbsp
 
  ---
 
