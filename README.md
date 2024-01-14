@@ -28,6 +28,11 @@
      <a href="https://t.me/V_DmitryI" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
+    <a href="" target="_blank">
+      <img src="/assets/faceb.svg" width="40" height="40" alt="Facebook" />
+    </a>
+
+
   </div>
 
 ---
@@ -74,7 +79,7 @@
 ### 💾 Зараз вивчаю:
 
 <div>
-  <img src="https://drive.google.com/file/d/1Yr8-9w2ArGnlbNuZrXI6Oh0_1ZWQUji8/view?usp=drive_link" title="sql" alt="sql" width="40" height="40"/>&nbsp
+  <img src="/assets/Вяткін Дмитро 1.png" title="sql" alt="sql" width="60" height="60"/>&nbsp
 
  ---
 
