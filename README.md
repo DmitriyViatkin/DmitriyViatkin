@@ -80,7 +80,8 @@
 
 <div>
   <img src="/assets/Без імені.png" title="sql" alt="sql" width="60" height="60"/>&nbsp
+  <img src="https://www.flaticon.com/free-icons/html" title="html,css,js" alt="html,css,js" width="60" height="60"/>&nbsp
 
- ---
+
 
 
